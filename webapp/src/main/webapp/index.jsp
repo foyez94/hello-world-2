@@ -10,7 +10,6 @@
 <body>
   <table cellspacing="20">
     <tr>
-      <td><img src="image/foyez.png" alt="My profile picture"></td>
       <td><h1>Abdul Foyez</h1>
       <a href="contact.html">Contact ME</a><br>
       <a href="skills.html">WHAT SKILLS DO I POSSESS?Click Here</a>
@@ -22,6 +21,7 @@
 
   <hr>
   <h3>Books and Teching</h3>
+<h4> love my life </h4>
   <ul>
     <li>The complete website Development Bootcamp</li>
     <li>The complete Android Development Bootcamp</li>
