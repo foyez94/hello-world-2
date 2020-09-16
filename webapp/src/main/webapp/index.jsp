@@ -14,7 +14,7 @@
       <a href="contact.html">Contact ME</a><br>
       <a href="skills.html">WHAT SKILLS DO I POSSESS?Click Here</a>
      <p><em>junior <strong> website and Android </strong>Developer.</em></p>
-      <p>I am a junior Android and web Developer. I am looking for the job opportunity .I always 🧡 to work
+      <p>I am a junior Devops engineer. I am looking for the job opportunity .I always to work
         and learn in new technology. I 💜 coffee and coding.</p></td>
     </tr>
   </table>
@@ -23,8 +23,8 @@
   <h3>Books and Teching</h3>
 <h4> love my life </h4>
   <ul>
-    <li>The complete website Development Bootcamp</li>
-    <li>The complete Android Development Bootcamp</li>
+    <li>skills in website development</li>
+    <li>also skills in  Android Development</li>
   </ul>
   <hr>
 
